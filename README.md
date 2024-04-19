@@ -27,10 +27,17 @@
 ## 파일 구조
 
 | — yolo 학습 파일
+
 | — domain
+
 |           | — router.py
+
 |           | — crud.py
+
 |           | — schema.py
+
 | — database.py
+
 | — models.py
+
 | — main.py
