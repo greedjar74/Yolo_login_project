@@ -23,3 +23,14 @@
 
 ## 4. EC2
     - AWS EC2를 사용하여 퍼블릭
+
+## 파일 구조
+
+| — yolo 학습 파일
+| — domain
+|           | — router.py
+|           | — crud.py
+|           | — schema.py
+| — database.py
+| — models.py
+| — main.py
